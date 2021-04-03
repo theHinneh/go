@@ -1,1 +1,1 @@
-web: bin/rangotodo
+web: rango
