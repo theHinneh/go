@@ -4,3 +4,9 @@
 
 # run:
 #   web: bin/rangotodo
+
+build:
+  docker:
+    web: Dockerfile
+run:
+  web: ./rangotodo
